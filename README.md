@@ -8,7 +8,7 @@
 
 ## Главные проекты
 
-### [Предсказание цены недвижимости](https://github.com/OtlichnoBy/General/tree/master/module_7_final/) — итоговый проект 1-го года
+### [Предсказание цены недвижимости](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_7_final/) — итоговый проект 1-го года
 
 Сервис для предсказания стоимости домов на основе исторических данных о предложениях (377K записей, 18 признаков).
 
@@ -20,7 +20,7 @@
 
 ---
 
-### [Рекомендательная система для e-commerce](https://github.com/OtlichnoBy/General/tree/master/module_10_final/) — итоговый проект 2-го года
+### [Рекомендательная система для e-commerce](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_10_final/) — итоговый проект 2-го года
 
 Персонализированная система рекомендаций товаров (Top-3) для e-commerce ритейлера на данных о 2.7M событий пользователей.
 
@@ -35,32 +35,32 @@
 
 | Проект | Ключевые темы | Результат |
 |--------|--------------|-----------|
-| [A/A/B-тестирование](https://github.com/OtlichnoBy/General/tree/master/module_9/ab_testing.ipynb) | Статистические тесты, SciPy, Statsmodels | Выявлен сбой сплит-системы (A/A-тест провален) |
-| [Детектирование аномалий](https://github.com/OtlichnoBy/General/tree/master/module_9/anomaly_detection.ipynb) | Isolation Forest, DBSCAN, Z-score, IQR | 9 аномальных дней; комбинация методов наиболее устойчива |
-| [Байесовские методы](https://github.com/OtlichnoBy/General/tree/master/module_9/bayesian_methods.ipynb) | PyMC3, линейная регрессия, MCMC | Регрессия с доверительными интервалами для каждого коэффициента |
-| [Uplift-моделирование](https://github.com/OtlichnoBy/General/tree/master/module_9/uplift_modeling.ipynb) | CausalML, S/T-Learner, Qini-score | S-Learner — лучший qini-score (2169.5) без переобучения |
-| [Мониторинг ML-моделей](https://github.com/OtlichnoBy/General/tree/master/module_9/wine_quality_monitoring.ipynb) | LightGBM, Prometheus, Grafana, MLOps | Пайплайн сбора метрик модели в реальном времени |
+| [A/A/B-тестирование](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_9/ab_testing.ipynb) | Статистические тесты, SciPy, Statsmodels | Выявлен сбой сплит-системы (A/A-тест провален) |
+| [Детектирование аномалий](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_9/anomaly_detection.ipynb) | Isolation Forest, DBSCAN, Z-score, IQR | 9 аномальных дней; комбинация методов наиболее устойчива |
+| [Байесовские методы](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_9/bayesian_methods.ipynb) | PyMC3, линейная регрессия, MCMC | Регрессия с доверительными интервалами для каждого коэффициента |
+| [Uplift-моделирование](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_9/uplift_modeling.ipynb) | CausalML, S/T-Learner, Qini-score | S-Learner — лучший qini-score (2169.5) без переобучения |
+| [Мониторинг ML-моделей](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_9/wine_quality_monitoring.ipynb) | LightGBM, Prometheus, Grafana, MLOps | Пайплайн сбора метрик модели в реальном времени |
 
 ## Проекты 2-го года
 
 | Модуль | Проект | Описание |
 |--------|--------|----------|
-| [module_8](https://github.com/OtlichnoBy/General/tree/master/module_8/) | Прогнозирование объёмов продаж | Временные ряды: Prophet, LightGBM, CatBoost |
-| [module_9](https://github.com/OtlichnoBy/General/tree/master/module_9/) | Мини-проекты (5 шт.) | A/B-тесты, аномалии, байесовские методы, uplift, мониторинг |
-| [module_10_final](https://github.com/OtlichnoBy/General/tree/master/module_10_final/) | Рекомендательная система | Дипломный проект: LightFM + Docker API |
+| [module_8](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_8/) | Прогнозирование объёмов продаж | Временные ряды: Prophet, LightGBM, CatBoost |
+| [module_9](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_9/) | Мини-проекты (5 шт.) | A/B-тесты, аномалии, байесовские методы, uplift, мониторинг |
+| [module_10_final](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_10_final/) | Рекомендательная система | Дипломный проект: LightFM + Docker API |
 
 ## Проекты 1-го года
 
 | Модуль | Проект | Описание |
 |--------|--------|----------|
-| [module_0](https://github.com/OtlichnoBy/General/tree/master/module_0/) + [Крестики-нолики](https://github.com/OtlichnoBy/General/tree/master/tick_tack_toe/) | Основы Python и игра | Бинарный поиск числа, OOP: игра «Крестики-нолики» |
-| [module_1](https://github.com/OtlichnoBy/General/tree/master/module_1/) | Игра «Кто хочет стать миллионером» | Python: функции, словари, циклы |
-| [module_2](https://github.com/OtlichnoBy/General/tree/master/module_2/) | Разведывательный анализ данных | EDA: влияние условий жизни на успеваемость |
-| [module_3](https://github.com/OtlichnoBy/General/tree/master/module_3/) | Предсказание рейтинга TripAdvisor | ML: предсказание рейтинга ресторана |
-| [module_4](https://github.com/OtlichnoBy/General/tree/master/module_4/) | Анализ авиарейсов | EDA: исследование данных о перелётах |
-| [module_5](https://github.com/OtlichnoBy/General/tree/master/module_5/) | Кредитный скоринг | Классификация: предсказание дефолта клиента |
-| [module_6](https://github.com/OtlichnoBy/General/tree/master/module_6/) | RFM-анализ клиентов | Сегментация клиентов по покупательской способности |
-| [module_7_final](https://github.com/OtlichnoBy/General/tree/master/module_7_final/) | Предсказание цены недвижимости | Финальный проект 1-го года: регрессия + Docker API |
+| [module_0](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_0/) + [Крестики-нолики](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/tick_tack_toe/) | Основы Python и игра | Бинарный поиск числа, OOP: игра «Крестики-нолики» |
+| [module_1](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_1/) | Игра «Кто хочет стать миллионером» | Python: функции, словари, циклы |
+| [module_2](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_2/) | Разведывательный анализ данных | EDA: влияние условий жизни на успеваемость |
+| [module_3](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_3/) | Предсказание рейтинга TripAdvisor | ML: предсказание рейтинга ресторана |
+| [module_4](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_4/) | Анализ авиарейсов | EDA: исследование данных о перелётах |
+| [module_5](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_5/) | Кредитный скоринг | Классификация: предсказание дефолта клиента |
+| [module_6](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_6/) | RFM-анализ клиентов | Сегментация клиентов по покупательской способности |
+| [module_7_final](https://github.com/OtlichnoBy/data-science-portfolio/tree/master/module_7_final/) | Предсказание цены недвижимости | Финальный проект 1-го года: регрессия + Docker API |
 
 ## Стек
 
